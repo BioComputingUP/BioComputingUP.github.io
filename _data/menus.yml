@@ -1,0 +1,21 @@
+# Top Menu
+topmenu:
+
+- title: DisProt
+  url: "disprot/"
+
+#- title: PED
+#  url: "ped/"
+#
+#- title: MobiDB
+#  url: "ped/"
+#
+#- title: RepeatsDB
+#  url: "ped/"
+#
+#- title: VHLdb
+#  url: "ped/"
+
+# Footer Menu
+footermenu:
+#
