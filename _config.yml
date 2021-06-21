@@ -1,6 +1,5 @@
 title: "BioComputingUP News"
 email: biocomp@bio.unipd.it
-domain: biocomputingup.github.io
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
