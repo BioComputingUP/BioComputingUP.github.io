@@ -1,9 +1,8 @@
 title: "BioComputingUP News"
 email: biocomp@bio.unipd.it
 domain: biocomputingup.github.io
-url: https://biocomputingup.github.io
 timezone: UTC
-baseurl: "/BioComputingUP/"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon-16x16.png'
