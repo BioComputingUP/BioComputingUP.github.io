@@ -2,7 +2,7 @@ title: "BioComputingUP News"
 email: biocomp@bio.unipd.it
 timezone: UTC
 baseurl: ""
-permalink: "/:title/"
+permalink: "/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon-16x16.png'
 author: Sal

@@ -37,11 +37,11 @@ post_class: post-template
 
 
             {% if page.headline %}
-            <p class="mb-2"><strong>{{ page.headline }}</strong></p>
+            <p class="mb-2 text-justify"><strong>{{ page.headline }}</strong></p>
             {% endif %}
 
             {% if page.image %}
-            <img class="featured-image img-fluid rounded"
+            <img class="featured-image img-fluid rounded mt-3"
                  src="{{ site.baseurl }}/{{ page.image }}"
                  alt="{{ page.title }}">
             {% endif %}
@@ -57,7 +57,7 @@ post_class: post-template
 
 
         <!-- Post Content -->
-        <div class="article-post serif-font">
+        <div class="article-post serif-font text-justify">
             {{content}}
             <div class="clearfix"></div>
         </div>
