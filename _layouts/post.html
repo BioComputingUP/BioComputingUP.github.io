@@ -35,19 +35,20 @@ post_class: post-template
             <!-- Post Title -->
             <h1 class="posttitle">{{ page.title }}</h1>
 
-            {% if page.image %}
-            <img class="featured-image img-fluid rounded"
-                 src="{{ site.baseurl }}/{{ page.image }}"
-                 alt="{{ page.title }}">
-            {% endif %}
 
             {% if page.headline %}
             <p><strong>{{ page.headline }}</strong></p>
             {% endif %}
             <i>
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} Written on {{ page.date |
-                date: date_format }},  {%- if page.author -%} by {{ page.author }}. {%- endif -%}
+                <span>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} Written on {{ page.date |
+                    date: date_format }},</span>  <span class="ml-2">{%- if page.author -%} by {{ page.author }}. {%- endif -%}</span>
             </i>
+
+            {% if page.image %}
+            <img class="featured-image img-fluid rounded"
+                 src="{{ site.baseurl }}/{{ page.image }}"
+                 alt="{{ page.title }}">
+            {% endif %}
 
         </div>
 
