@@ -1,0 +1,33 @@
+---
+layout: post
+title:  'DisProt 2021_06 - Thematic release featuring a dataset of “extracellular matrix proteins”, and several revised and new entries'
+date:   2021-06-25 10:00:00 +0200
+author: "Edoardo Salladini, Tamás Lázár, Federica Quaglia"
+headline: 'The DisProt curation team is pleased to report a new release featuring the second thematic DisProt dataset: “extracellular matrix proteins”, describing the role of IDPs in this network within the tissues. At the same time, we have continued the process of reviewing and updating entries of well-known IDPs to provide the most complete and reliable annotations. Furthermore, we are happy to release new entries annotated from our community of new biocurators.'
+topic: "disprot"
+image: assets/figures/Release2021_06_Graphicalabstract.svg
+---
+
+## New thematic dataset of disorder in the extracellular matrix (ECM)
+The extracellular matrix (ECM) provides structural and biochemical support to the surrounding tissues, as a three-dimensional network composed of proteins and polysaccharides that includes collagen, elastin, laminin, fibronectin and a large number of glycosaminoglycans. This second DisProt thematic release features a dataset of ECM proteins. Here, we annotated and reviewed 46 IDPs playing a role in the extracellular matrix and covered examples of mostly human proteins (90%), but also mouse, rat and pig proteins. The dataset highlights the functions of IDPs involved in the ECM as regulators of glycosylation, entropic chains, molecular recognition assemblers and effectors. Some notable examples include collagen [(DP02163)][disprot-DP02163], MMP [(DP03257)][disprot-DP03257], osteopontin [(DP00214)][disprot-DP00214] and LOX [(DP02075)][disprot-DP02075]. This thematic release was achieved thanks to the efforts of our reviewers Lucía Beatriz Chemes, Tamás Lázár, Bálint Mészáros and Rita Pancsa.
+
+## Reviewing and updating well-known IDPs
+Last year we started the process of reviewing, updating and adding entries of well-known IDPs in DisProt. The current release holds information on 28 IDPs, carefully selected by our reviewers Edoardo Salladini and Federica Quaglia from the [Dunker _et al._][pub-1] work, a cornerstone of the first DisProt upgrade. Out of these, 5 are new and 23 are updated entries of IDPs. Neuromodulin [(DP00955)][disprot-DP00955], EF-G [(DP03357)][disprot-DP03357], CGB3 [(DP00013)][disprot-DP00013] and CDKN1A [(DP00016)][disprot-DP00016] are a few representative  examples of the new entries. We are also proud to announce the first annotation on a known entropic clock, Kvβ1.1 [(DP03354)][disprot-DP03354]. Finally, our reviewers Federica and Mátyás Pajkos are reannotating and adding new pieces of evidence to already existing entries of IDPs playing a crucial role in cancer, e.g. pVHL [(DP00287)][disprot-DP00287] and p27 [(DP00018)][disprot-DP00018].
+
+## New entries from our biocurators
+DisProt is growing thanks to the commitment of our community. To this end we are excited to share with you new annotations on 54 entries by our experienced, Attila Mészáros, and new biocurators, Veronika Ács, Julia Marchetti, Samuel Peña Díaz and Jaime Santos Suárez.
+
+
+[disprot-link]: https://disprot.org/
+[disprot-DP02163]:  https://disprot.org/DP02163
+[disprot-DP03257]: https://disprot.org/DP03257
+[disprot-DP00214]: https://disprot.org/DP00214
+[disprot-DP02075]: https://disprot.org/DP02075
+[disprot-DP00018]: https://disprot.org/DP00018
+[disprot-DP00287]: https://disprot.org/DP00287
+[disprot-DP03354]: https://disprot.org/DP03354
+[disprot-DP00016]: https://disprot.org/DP00016
+[disprot-DP00013]: https://disprot.org/DP00013
+[disprot-DP03357]: https://disprot.org/DP03357
+[disprot-DP00955]: https://disprot.org/DP00955
+[pub-1]: https://doi.org/10.1021/bi012159+
