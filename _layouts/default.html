@@ -24,12 +24,8 @@
         <div class="container my-0 py-0">
 
           <a class="navbar-brand text-dark  big d-flex align-items-center  my-0 py-0" href="{{site.baseurl}}/">
-          {% if site.logo %}
-          <img class="mr-2" style="max-height: 4rem" src="{{site.baseurl}}/{{site.logo}}" alt="logo">
-          {% else %}
-          <span class="d-none d-md-inline-block">{{ site.title }}</span>
-          {% endif %}
-          <span class="font-weight-bold mx-2" style="margin-right: 1rem"> BioComputingUP</span>  <span>News </span>
+
+          <span class="font-weight-bold mx-2" style="margin-right: 1rem"> BioComputing UP</span>  <span>Blogs </span>
           </a>
           
 
@@ -56,35 +52,57 @@
 
         </div>
       </nav>
-    </div>  
+</div>
 
     
 <!-- Container
 ================================================== -->    
-<main class="container">   
+<main class="container">
       {{ content }}  
 </main>
 
 <!-- Footer
 ================================================== -->    
-<footer class="footer container text-center">  
-    <div class="copyright small">
+<footer class="footer container text-left">
+  <div class="row small mb-2">
 
-          <div class="align-self-center">
-            <a class="mr-2" rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-              <img alt="Creative Commons License"
-                   style="border-width:0"
-                   src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
-            </a>
-            This work is licensed under a
+    <div class="col" style="max-width: 120px"><a class="mr-2" rel="license" href="https://biocomputingup.it/">
+      <img
+              style="border-width:0; max-width: 60px"
+              src="{{site.baseurl}}/assets/images/logo.png"/>
+    </a></div>
+    <div class="col align-self-center" >
+
+      <span>
+         This work is maintained by BioCompiuting UP
+      </span>
+    </div> </div>  <div class="row small">
+
+  <div class="col" style="max-width: 120px">
+    <a class="mr-2" rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+      <img alt="Creative Commons License"
+           style="border-width:0"
+           src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+    </a>
+  </div>  <div class="col align-self-center">
+      <span>This work is licensed under a
             <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
               Creative Commons Attribution 4.0 International License
             </a>.
-
-          </div>
-
-
+    </span>
     </div>
+  </div>
+<!--    <div class="copyright small">-->
+<!--          <div class="align-self-center">-->
+<!--            -->
+<!--            -->
+<!--             <br>-->
+<!--              -->
+
+<!--          </div>-->
+
+
+<!--    </div>-->
 </footer>
 
 <!-- JavaScript

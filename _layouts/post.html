@@ -7,7 +7,17 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-
+{% if page.tag == disprot %}
+<div class="rounded mb-3 disprot-blog-header">
+    <div class="row align-items-center justify-content-between">
+        <div class="col">
+            <a  href="{{ site.baseurl }}/disprot">
+                <img width="300" src="{{site.baseurl}}/assets/images/DisProt_prot_vect_white_outline.svg">
+            </a>
+        </div>
+    </div>
+</div>
+{% endif %}
 <div class="row">
 
 
