@@ -15,11 +15,11 @@ comments: false
 
 <!-- Posts List with Sidebar (except featured) -->
 <section class="row">
-    <div class="col-sm-8">
+    <div class="col-md-8">
         <div class="row">
             {% for post in site.posts %}
             {% if post.topic == "disprot" %}
-            <div class="col-6 mb-5">
+            <div class="col-lg-6 mb-5">
                 {% include postbox.html %}
             </div>
             {% endif %}
