@@ -1,0 +1,17 @@
+---
+layout: post
+title:  'DisProt 2021_08 - Integration of ECO and GO ontologies'
+date:   2021-09-10 10:00:00 +0200
+author: "Edoardo Salladini, András Hatos and Federica Quaglia"
+headline: 'DisProt adopted two dedicated and stable ontologies - the Gene Ontology and the Evidence and Conclusion Ontology - to improve the representation of interactions, disorder functions and describe the experimental methods used to assess disorder.'
+topic: "disprot"
+image: assets/figures/Release2021_08_Graphicalabstract.svg
+---
+
+DisProt is now using two specific ontologies to improve the interoperability and the consistency of our manually curated annotations. We adopted the [Gene Ontology (GO)][pub-2] to annotate functions and interactions, and the [Evidence and Conclusion Ontology (ECO)][pub-2] to annotate the techniques used to assess the disorder.
+We invite you to explore our [About page][about-link] to get familiar with the ontologies in DisProt.
+
+
+[pub-1]: https://doi.org/10.1093/nar/gky1036
+[pub-2]: https://doi.org/10.1038/75556
+[about-link]: https://disprot.org/about

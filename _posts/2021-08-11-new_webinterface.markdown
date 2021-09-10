@@ -9,7 +9,7 @@ topic: "disprot"
 <h2></h2>
 IDPs are a trending topic, and we think scientists should not have to worry about how to access data but only about how to improve their research. We released a new [DisProt][disprot-link] web interface that enhances user experience while preserving a familiar behavior.
 
-We updated the DisProt application source code to <i>Angular</i> version 12, for a faster loading time and adopted the brand new <i>Bootstrap</i>, version [version 5][bootstrap-blogpost-link] for a better look & feel. The DisProt interface is now more intuitive, thanks to a minimalistic, consistent design between different components.
+We updated the DisProt application source code to <i>Angular</i> version 12, for a faster loading time and adopted the brand new <i>Bootstrap</i>, [version 5][bootstrap-blogpost-link] for a better look & feel. The DisProt interface is now more intuitive, thanks to a minimalistic, consistent design between different components.
 
 To allow the best user experience we encourage our users to update their browser to the latest version. Compatible browsers are: Firefox 60+, Safari 10+, iOS Safari 10+, Chrome 60+, Android 6+.
 
