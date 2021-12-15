@@ -2,3 +2,14 @@
            background-image: linear-gradient(120deg, #A7662B, #551004);
            padding: 2rem 1rem 2rem 1rem;
 }
+.ped-blog-header {
+           background-image: linear-gradient(120deg, #2274a5,  #0A202D);
+           padding: 2rem 1rem 2rem 1rem;
+}
+.mobidb-blog-header {
+           background-color: #2196f3;
+           padding: 1rem 1rem 2rem 1rem;
+}
+.mobidb-blog-header h1 {
+color: white;
+}

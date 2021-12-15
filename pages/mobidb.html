@@ -1,0 +1,38 @@
+---
+layout: default
+title: MobiDB
+permalink: "/mobidb/"
+comments: false
+---
+<div class="rounded mb-5 mobidb-blog-header">
+    <div class="row align-items-center justify-content-between">
+        <div class="col-auto">
+            <img width="150" src="{{site.baseurl}}/assets/images/mdb_logo_bgprimary.svg">
+        </div>
+        <div class="col"><h1 class="mt-2">MobiDB</h1></div>
+
+    </div>
+</div>
+
+<!-- Posts List with Sidebar (except featured) -->
+<section class="row">
+    <div class="col-md-8">
+        <div class="row">
+            {% for post in site.posts %}
+            {% if post.topic == "mobidb" %}
+            <div class="col-lg-6 mb-5">
+                {% include postbox.html %}
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+<!--    <h1>valami</h1>-->
+<!--    <div class="col-sm-4">-->
+<!--        <a href="https://twitter.com/proteinensemble"> @DisProt_db</a>-->
+<!--        <a class="twitter-timeline" href="https://twitter.com/DisProt_db"-->
+<!--           data-chrome="nofooter noheader transparent" data-aria-polite="assertive" data-tweet-limit="2">-->
+<!--        </a>-->
+<!--    </div>-->
+</section>

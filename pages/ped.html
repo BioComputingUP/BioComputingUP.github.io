@@ -5,16 +5,32 @@ permalink: "/ped/"
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Thank you for your interest in getting in touch with us. Please send your message here. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
+<div class="rounded mb-5 ped-blog-header">
+    <div class="row align-items-center justify-content-between">
+        <div class="col-md-6">
+            <img width="230" src="{{site.baseurl}}/assets/images/PED_logo_white.svg">
+        </div>
+
+    </div>
 </div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-dark" type="submit" value="Send">
-</form>
+
+<!-- Posts List with Sidebar (except featured) -->
+<section class="row">
+    <div class="col-md-8">
+        <div class="row">
+            {% for post in site.posts %}
+            {% if post.topic == "ped" %}
+            <div class="col-lg-6 mb-5">
+                {% include postbox.html %}
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <a href="https://twitter.com/proteinensemble"> @proteinEnsemble</a>
+        <a class="twitter-timeline" href="https://twitter.com/proteinEnsemble"
+           data-chrome="nofooter noheader transparent" data-aria-polite="assertive" data-tweet-limit="2">
+        </a>
+    </div>
+</section>

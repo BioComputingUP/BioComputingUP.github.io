@@ -1,0 +1,41 @@
+---
+layout: post
+title:  'DisProt 2021_12 - Thematic release featuring a dataset of IDPs and IDRs in “viral proteins”'
+date:   2021-12-15 12:00:00 +0200
+author: "Federica Quaglia and Philippe Le Mercier"
+headline: 'The DisProt curation team is pleased to publish a new release featuring the third thematic DisProt dataset, “viral proteins”, exploring the role of IDPs and IDRs in the context of viral proteins.'
+topic: "disprot"
+image: assets/figures/Disprot 2021_12 GA.png
+---
+
+## New thematic dataset of disorder in viral proteomes
+The current release aims at filling the gaps in the manual curation of intrinsically disordered regions in viral
+proteomes. We included in our dataset a variety of examples of both DNA viruses (e.g. <i>Human herpesvirus</i> 1, 2, 8)
+and RNA viruses (e.g. <i>Hepatitis C virus</i>, <i>Ebola virus</i>). Our dataset includes examples of viruses affecting 
+a plethora of organisms, ranging from bacteria (e.g. <i>Salmonella phage</i> Transcriptional repressor arc,
+[DP01512][DP01512]; <i>Streptococcus phage</i> AcrIIA5, [DP02928][DP02928]), to plant viruses (e.g. <i>Carnation mottle virus</i> 
+capsid protein, [DP02071][DP02071]), animal (e.g. Myxoma virus M156R, [DP00849][DP00849]) and human viruses.
+
+In particular, we focused on major human pathogens, including SARS-CoV-2 (e.g. nucleoprotein, [DP03212][DP03212]) and HIV-1
+proteins (e.g protein Vpr, [DP03543][DP03543]), up to examples of lethal viruses causative of hemorrhagic fevers such as 
+<i>Lassa mammarenavirus</i>, <i>Dengue virus</i> and <i>Marburg virus</i>.
+
+The DisProt “viral proteins” dataset currently features more than 180 DisProt entries of viral proteins, 
+available from the DisProt home page.  
+
+This thematic release was achieved thanks to the collaboration with Philippe Le Mercier, resource manager of [ViralZone][ViralZone]
+([SIB Swiss Institute of Bioinformatics][SIB] web-resource on viral genera and families).
+
+## Updated existing entries and new entries from our biocurators
+This new DisProt release features 356 new entries and more than 1743 new pieces of evidence, annotated from 504 new
+articles not present in DisProt yet. We are thankful to our biocurators Victoria M. Nugnes, Julian Bergier and 
+Galo E. Balatti for their outstanding effort.
+
+[DP01512]: https://disprot.org/DP01512
+[DP02928]: https://disprot.org/DP02928
+[DP02071]: https://disprot.org/DP02071
+[DP00849]: https://disprot.org/DP00849
+[DP03212]: https://disprot.org/DP03212
+[DP03543]: https://disprot.org/DP03543
+[ViralZone]: https://viralzone.expasy.org/
+[SIB]: https://www.sib.swiss/
