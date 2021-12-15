@@ -41,12 +41,13 @@ post_class: post-template
             {% endif %}
 
             {% if page.image %}
-            <img class="featured-image img-fluid rounded mt-3"
+            <img class="featured-image img-fluid rounded mt-3 mb-0"
                  src="{{ site.baseurl }}/{{ page.image }}"
                  alt="{{ page.title }}">
             {% endif %}
+
             {% if page.image_text %}
-            <p class="my-0">
+            <p class="mt-0 mb-2">
                 {{ page.image_text }}
             </p>
             {% endif %}
