@@ -16,7 +16,7 @@ post_class: post-template
             </a>
         </div>
     </div>
-</div>
+    </div>
 {% endif %}
 <div class="row">
 
@@ -45,7 +45,11 @@ post_class: post-template
                  src="{{ site.baseurl }}/{{ page.image }}"
                  alt="{{ page.title }}">
             {% endif %}
-
+            {% if page.image_text == disprot %}
+            <p class="my-0">
+                {{ page.image_text }}
+            </p>
+            {% endif %}
             <i>
                 <span>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} Written on {{ page.date |
                     date: date_format }},</span>  <span class="ml-2">{%- if page.author -%} by {{ page.author }}. {%- endif -%}</span>

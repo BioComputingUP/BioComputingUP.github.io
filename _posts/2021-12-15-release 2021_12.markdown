@@ -6,6 +6,7 @@ author: "Federica Quaglia and Philippe Le Mercier"
 headline: 'The DisProt curation team is pleased to publish a new release featuring the third thematic DisProt dataset, “viral proteins”, exploring the role of IDPs and IDRs in the context of viral proteins.'
 topic: "disprot"
 image: assets/figures/Disprot 2021_12 GA.png
+image_text: "Created with BioRender.com"
 ---
 
 ## New thematic dataset of disorder in viral proteomes
