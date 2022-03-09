@@ -1,0 +1,15 @@
+---
+layout: post
+title:  'DisProt 2022_03 - a technical release'
+date:   2022-03-09 15:00:00 +0100
+author: "András Hatos"
+headline: 'We completed the Gene Ontology (GO) integration'
+topic: "disprot"
+---
+
+We completed the Gene Ontology (GO) integration, started in September 2021 (see previous [blog post][post]). 
+All the GO terms are now available for annotation in DisProt and we transmit GAF-format compliant annotations to Gene Ontology.
+To know more about this, please have a look at our [Ontology page][ontologyPage].
+
+[post]: https://biocomputingup.github.io/2021/09/10/Partner_of_GO/
+[ontologyPage]: https://disprot.org/ontology
