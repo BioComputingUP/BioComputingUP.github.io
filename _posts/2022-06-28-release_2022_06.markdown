@@ -1,0 +1,47 @@
+---
+layout: post
+title:  'DisProt 2022_06 - Release featuring the “autophagy-related proteins” and “cancer-related proteins” datasets'
+date:   2022-06-28 17:00:00 +0200
+author: "Federica Quaglia"
+headline: 'This release of DisProt features two new thematic datasets, “autophagy-related proteins” and “cancer-related proteins”, exploring the role played by intrinsically disordered regions (IDRs) and proteins (IDPs) in two main biological areas - autophagy and cancer.'
+topic: "disprot"
+---
+
+# New thematic dataset of intrinsic disorder in autophagy-related proteins
+
+The DisProt <i>“autophagy-related proteins”</i> focuses on the IDRs and IDPs involved in selective macroautophagy and on the LIR motifs - localized inside these IDRs - that have been experimentally tested for their ability to bind Atg8 homologs in autophagy. Information about the LIR motifs have been annotated based on [LIRcentral][LIRcentral], manually curated resource of experimentally confirmed LIR motifs from literature hosted in the [laboratory][BRL-lab] of Prof. Vasilis Promponas. The <i>“autophagy-related proteins”</i> thematic dataset was indeed created thanks to the collaboration with [Prof. Vasilis Promponas][vasilis-promponas-linkedin] and LIRcentral biocurator, [Vasileios Sagris][vasileios-sagris-linkedin].
+
+Examples from the <i>“autophagy-related proteins”</i> dataset include:
+* the Autophagy-related protein 3 (Atg3) of Saccharomyces cerevisiae (DisProt:[DP02826][DP02826], LIRcentral:[P40344][P40344]). Atg3 is characterized by three IDRs, one of them including the canonical LIR motif "WEDL" involved in the interaction of Atg3 with Atg8.
+* the Serine/threonine-protein kinase 3 (STK3) of Homo sapiens (DisProt:[DP01461][DP01461], LIRcentral:[Q13188][Q13188]). STK3 is characterized by the presence of one IDR, spanning residues 314-427, that includes the non canonical LIR motif “MVI” involved in the interaction with LC3C and GABARAP.
+
+The <i>“autophagy-related proteins”</i>, currently including 100 protein entries, can be accessed from the Datasets section in the DisProt home page and [here][Autophagy].
+
+# New thematic dataset of intrinsic disorder in cancer-related proteins
+
+The DisProt <i>“cancer-related proteins”</i> focuses on the intrinsically disordered regions found in proteins involved in cancer. The “cancer-related proteins'' thematic dataset was created thanks to the collaboration with [Prof. Zsuzsanna Dosztanyi][zsuzsanna-linkedin] and [Dr. Matyas Pajkos][pajkos-linkedin]. Proteins included in our dataset have been selected using [COSMIC][COSMIC] and relevant literature to explore the role of intrinsic disorder in the context of cancer progression and somatic mutations driving cancer.
+
+Examples from the <i>“cancer-related proteins”</i> dataset include:
+* the Breast cancer type 1 susceptibility protein (BRCA1) from Homo sapiens (DisProt:[DP00238][DP00238]), whose 1500-residue long central region (100 - 1649) is intrinsically disordered.
+* the Cyclin-dependent kinase inhibitor 1B (CDKN1B) from Homo sapiens (DisProt:[DP00018][DP00018]), a fully disordered protein.
+* the von Hippel-Lindau disease tumor suppressor (VHL) from Homo sapiens (DisProt:[DP00287][DP00287]), including an intrinsically disordered N-terminal tail spanning residues 1-53. Residues 54-213 of the protein are instead characterized by a molten globule conformation under native conditions. 
+
+The <i>“cancer-related proteins”</i>, currently including more than 140 protein entries, can be accessed from the Datasets section in the DisProt home page and [here][Cancer].
+
+
+[LIRcentral]: http://www.lircentral.eu/home
+[BRL-lab]: http://troodos.biol.ucy.ac.cy/BRLnew/drupal-7.0/?q=node/15
+[vasilis-promponas-linkedin]: https://www.linkedin.com/in/vasilis-promponas-8540a81/
+[vasileios-sagris-linkedin]: https://www.linkedin.com/in/vasileios-sagris-biocv/
+[DP02826]: https://disprot.org/DP02826
+[P40344]: http://www.lircentral.eu/protein.php?uniprotacc=P40344
+[DP01461]: https://disprot.org/DP01461
+[Q13188]: http://www.lircentral.eu/protein.php?uniprotacc=Q13188
+[Autophagy]: https://disprot.org/browse?sort_field=disprot_id&sort_value=asc&page_size=20&page=0&release=current&show_ambiguous=true&show_obsolete=false&dataset=Autophagy-related%20proteins
+[zsuzsanna-linkedin]: https://www.linkedin.com/in/doszt%C3%A1nyi-zsuzsanna-a149b37b/
+[pajkos-linkedin]: https://www.linkedin.com/in/m%C3%A1ty%C3%A1s-pajkos-270a91204/
+[COSMIC]: https://cancer.sanger.ac.uk/cosmic
+[DP00238]: https://disprot.org/DP00238
+[DP00018]: https://disprot.org/DP00018
+[DP00287]: https://disprot.org/DP00287
+[Cancer]: https://disprot.org/browse?sort_field=disprot_id&sort_value=asc&page_size=20&page=0&release=current&show_ambiguous=true&show_obsolete=false&dataset=Cancer-related%20proteins
