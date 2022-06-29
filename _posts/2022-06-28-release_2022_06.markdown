@@ -9,7 +9,7 @@ topic: "disprot"
 
 # New thematic dataset of intrinsic disorder in autophagy-related proteins
 
-The DisProt <i>“autophagy-related proteins”</i> focuses on the IDRs and IDPs involved in selective macroautophagy and on the LIR motifs - localized inside these IDRs - that have been experimentally tested for their ability to bind Atg8 homologs in autophagy. Information about the LIR motifs have been annotated based on [LIRcentral][LIRcentral], manually curated resource of experimentally confirmed LIR motifs from literature hosted in the [laboratory][BRL-lab] of Prof. Vasilis Promponas. The <i>“autophagy-related proteins”</i> thematic dataset was indeed created thanks to the collaboration with [Prof. Vasilis Promponas][vasilis-promponas-linkedin] and LIRcentral biocurator, [Vasileios Sagris][vasileios-sagris-linkedin].
+The DisProt <i>“autophagy-related proteins”</i> dataset focuses on the IDRs and IDPs involved in selective macroautophagy and on the LIR motifs - localized inside these IDRs - that have been experimentally tested for their ability to bind Atg8 homologs in autophagy. Information about the LIR motifs have been annotated based on [LIRcentral][LIRcentral], manually curated resource of experimentally confirmed LIR motifs from literature hosted in the [laboratory][BRL-lab] of Prof. Vasilis Promponas. The <i>“autophagy-related proteins”</i> thematic dataset was indeed created thanks to the collaboration with [Prof. Vasilis Promponas][vasilis-promponas-linkedin] and LIRcentral biocurator, [Vasileios Sagris][vasileios-sagris-linkedin].
 
 Examples from the <i>“autophagy-related proteins”</i> dataset include:
 * the Autophagy-related protein 3 (Atg3) of Saccharomyces cerevisiae (DisProt:[DP02826][DP02826], LIRcentral:[P40344][P40344]). Atg3 is characterized by three IDRs, one of them including the canonical LIR motif "WEDL" involved in the interaction of Atg3 with Atg8.
@@ -19,7 +19,7 @@ The <i>“autophagy-related proteins”</i>, currently including 100 protein ent
 
 # New thematic dataset of intrinsic disorder in cancer-related proteins
 
-The DisProt <i>“cancer-related proteins”</i> focuses on the intrinsically disordered regions found in proteins involved in cancer. The “cancer-related proteins'' thematic dataset was created thanks to the collaboration with [Prof. Zsuzsanna Dosztanyi][zsuzsanna-linkedin] and [Dr. Matyas Pajkos][pajkos-linkedin]. Proteins included in our dataset have been selected using [COSMIC][COSMIC] and relevant literature to explore the role of intrinsic disorder in the context of cancer progression and somatic mutations driving cancer.
+The DisProt <i>“cancer-related proteins”</i> dataset focuses on the intrinsically disordered regions found in proteins involved in cancer. The “cancer-related proteins'' thematic dataset was created thanks to the collaboration with [Prof. Zsuzsanna Dosztanyi][zsuzsanna-linkedin] and [Dr. Matyas Pajkos][pajkos-linkedin]. Proteins included in our dataset have been selected using [COSMIC][COSMIC] and relevant literature to explore the role of intrinsic disorder in the context of cancer progression and somatic mutations driving cancer.
 
 Examples from the <i>“cancer-related proteins”</i> dataset include:
 * the Breast cancer type 1 susceptibility protein (BRCA1) from Homo sapiens (DisProt:[DP00238][DP00238]), whose 1500-residue long central region (100 - 1649) is intrinsically disordered.
