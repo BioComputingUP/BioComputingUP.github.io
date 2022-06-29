@@ -29,7 +29,7 @@ Examples from the <i>“cancer-related proteins”</i> dataset include:
 The <i>“cancer-related proteins”</i>, currently including more than 140 protein entries, can be accessed from the Datasets section in the DisProt home page and [here][Cancer].
 
 
-[LIRcentral]: http://www.lircentral.eu/home
+[LIRcentral]: https://lircentral.eu/
 [BRL-lab]: http://troodos.biol.ucy.ac.cy/BRLnew/drupal-7.0/?q=node/15
 [vasilis-promponas-linkedin]: https://www.linkedin.com/in/vasilis-promponas-8540a81/
 [vasileios-sagris-linkedin]: https://www.linkedin.com/in/vasileios-sagris-biocv/
