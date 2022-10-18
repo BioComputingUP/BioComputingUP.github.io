@@ -31,7 +31,7 @@ At the end of this course users will be able to:
 
 ## [Exploring Manually Curated Annotations of Intrinsically Disordered Proteins with DisProt ][prot-disprot]
 
-* Updated protocol, open access, featuring three basic protocols and two support protocols:
+Updated protocol, open access, featuring three basic protocols and two support protocols:
 * Basic Protocol 1: Performing a search in DisProt
 * Support Protocol 1: Downloading options
 * Support Protocol 2: Programmatic access with DisProt REST API
