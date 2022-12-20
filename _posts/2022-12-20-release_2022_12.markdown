@@ -18,7 +18,7 @@ Examples from the <i>“Neglected tropical diseases proteins”</i> dataset incl
 * fungi e.g. <i>Madurella mycetomatis</i> Pea pathogenicity protein 2, [DP03786][DP03786]
 * helminths e.g. <i>Schistosoma mansoni</i> MEG-14, [DP01970][DP01970]; <i>Schistosoma haematobium</i> Serine protease inhibitor, [DP03791][DP03791]
 
-The Neglected tropical diseases proteins dataset release features 82 entries and more than 7,000 pieces of evidence, annotated from more than 180 new articles not present in DisProt yet. We are grateful to our biocurators Julian Bergier, Jaime Santos Suárez, Edoardo Salladini, Juliet Nilsson, Pedro Pereira and Galo Balatti for their remarkable commitment and effort.
+The Neglected tropical diseases proteins dataset release features 82 entries and more than 125 pieces of evidence, annotated from more than 100 new articles not present in DisProt yet. We are grateful to our biocurators Julian Bergier, Jaime Santos Suárez, Edoardo Salladini, Juliet Nilsson, Pedro Pereira and Galo Balatti for their remarkable commitment and effort.
 
 [DP03566]: https://disprot.org/DP03566
 [DP03809]: https://disprot.org/DP03809
