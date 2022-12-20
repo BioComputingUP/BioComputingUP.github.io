@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'DisProt 2022_12 - Release featuring a thematic dataset of neglected tropical diseases IDPs and IDRs '
+date:   2022-12-20 16:30:00 +0200
+author: "Victoria Nugnes"
+headline: 'The DisProt curation team is pleased to release a new thematic dataset portraying “Neglected tropical diseases proteins”, describing the presence and role of IDPs and IDRs in pathogens causative of these diseases.'
+topic: "disprot"
+---
+
+# New thematic dataset of intrinsic disorder in Neglected tropical diseases proteins
+
+The neglected tropical diseases (NTDs) are a subset of infectious diseases that are mainly prevalent in tropical areas, where they mostly affect impoverished communities. The variety of pathogens responsible for NTDs is represented in our dataset.
+
+Examples from the <i>“Neglected tropical diseases proteins”</i> dataset include: 
+* viruses e.g. <i>Rabies virus</i> Phosphoprotein, [DP03566][DP03566]; <i>Dengue virus</i> Non structural protein 5, [DP03809][DP03809]
+* bacteria e.g. <i>Chlamydia trachomatis</i> Translocated actin-recruiting phosphoprotein, [DP01472][DP01472]
+* protozoa e.g. <i>Trypanosoma cruzi</i> SBDS-like protein, [DP00957][DP00957]; <i>Leishmania donovani</i> HASPA protein, [DP03871][DP03871]
+* fungi e.g. <i>Madurella mycetomatis</i> Pea pathogenicity protein 2, [DP03786][DP03786]
+* helminths e.g. <i>Schistosoma mansoni</i> MEG-14, [DP01970][DP01970]; <i>Schistosoma haematobium</i> Serine protease inhibitor, [DP03791][DP03791]
+
+The Neglected tropical diseases proteins dataset release features 82 entries and more than 7,000 pieces of evidence, annotated from more than 180 new articles not present in DisProt yet. We are grateful to our biocurators Julian Bergier, Jaime Santos Suárez, Edoardo Salladini, Juliet Nilsson, Pedro Pereira and Galo Balatti for their remarkable commitment and effort.
+
+[DP03566]: https://disprot.org/DP03566
+[DP03809]: https://disprot.org/DP03809
+[DP00957]: https://disprot.org/DP00957
+[DP03871]: https://disprot.org/DP03871
+[DP03786]: https://disprot.org/DP03786
+[DP01970]: https://disprot.org/DP01970
+[DP03791]: https://disprot.org/DP03791
+[DP01472]: https://disprot.org/DP01472
