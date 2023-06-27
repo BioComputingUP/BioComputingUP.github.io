@@ -1,0 +1,39 @@
+---
+layout: post
+title:  'DisProt 2023_06 - New thematic dataset of Intrinsically Disordered Proteins related to Neurodevelopmental disorders (NDDs)'
+date:   2023-06-27 10:00:00 +0200
+author: "Maria Cristina Aspromonte and Victoria Nugnes"
+headline: 'DisProt curation team is proud to announce the new thematic dataset, “NDDs-related proteins”, with the important aim to define the role and abundance of intrinsically disordered proteins in Neurodevelopmental diseases.'
+topic: "disprot"
+---
+
+# Release featuring a thematic dataset of NDDs-related proteins
+
+Neurodevelopmental Disorders (NDDs) include early-onset conditions such as intellectual disability, autism spectrum disorders and attention deficit. To construct the dataset, we selected proteins involved in NDDs, using [SFARI], [SysNDD] and [DBD] databases to fill the gap and explore the role of IDPs/IDRs. Our dataset includes various examples of proteins associated with NDDs ranging from histone proteins (e.g. Histone-lysine N-methyltransferase, [DP03446]), to transcription factors (e.g. Transcription initiation factor TFIID subunit 1, [DP03451]; Transcriptional repressor protein YY1, [DP02595]) and ion channels (e.g. Sodium channel protein type 2 subunit alpha, [DP03178]; Sodium channel protein type 9 subunit alpha, [DP03805]).
+
+Thanks to the effort of DisProt biocurators the new dataset features 312 proteins and more than 1213 pieces of evidence obtained from over 494 publications.
+
+Examples from “NDDs-related proteins” dataset: 
+
+* Synaptic functional regulator FMR1 - [DP00134] is encoded by FMR1 gene, which is responsible for the most common form of Intellectual disability and Autism spectrum disorders (Fragile X syndrome). Experimental studies have highlighted the important role of their IDRs in the phase separation process and condensate formation.
+* Methyl-CpG-binding protein 2 - [DP00539] has a crucial role in neuronal development. MeCP2 is mostly unstructured protein and can adopt transitory secondary structures when binding to other molecules. 
+
+## Overlap of “Cancer” and “NDDs” related proteins
+
+In this new dataset, 39 entries with a key role in neurodevelopmental disorders have been reported to be important in cancer pathology. Among these, for example, we can mention the Androgen Receptor protein ([DP00492]) or the Breast cancer type 1 susceptibility protein ([DP00238]).
+
+The DisProt team is grateful to the main NDDs-related proteins curators Emanuela Leonardi, Fatemeh Kordevani and Mariane Goncalves Kulik for their remarkable work and effort in the construction of this thematic dataset.
+
+
+[SFARI]: https://gene.sfari.org/
+[SysNDD]: https://sysndd.dbmr.unibe.ch/
+[DBD]: https://dbd.geisingeradmi.org/
+[DP03446]: https://disprot.org/DP03446
+[DP03451]: https://disprot.org/DP03451
+[DP02595]: https://disprot.org/DP02595
+[DP03178]: https://disprot.org/DP03178
+[DP03805]: https://disprot.org/DP03805
+[DP00134]: https://disprot.org/DP00134 
+[DP00539]: https://disprot.org/DP00539 
+[DP00492]: https://disprot.org/DP00492
+[DP00238]: https://disprot.org/DP00238
