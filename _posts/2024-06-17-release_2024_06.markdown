@@ -3,7 +3,7 @@ layout: post
 title:  'DisProt 2024_06 - New thematic dataset of RNA-binding proteins (RBPs)'
 date:   2024-06-17 10:00:00 +0200
 author: "Maria Cristina Aspromonte"
-headline: 'With this last DisProt thematic dataset, we explore the role of intrinsically disordered proteins (IDPs) binding RNA. '
+headline: 'With this new DisProt thematic dataset, we explore the role of intrinsically disordered proteins (IDPs) binding RNA. '
 topic: "disprot"
 ---
 
@@ -21,7 +21,7 @@ Examples from “RNA-binding proteins” dataset:
 
 
 
-* [DP01087](https://disprot.org/DP01087) - Protein Tat (Organism:[ Human immunodeficiency virus type 1](https://disprot.org/browse?ncbi_taxon_id=11688)) encoded by gene _tat_. This protein acts by increasing the efficiency of the transcription process in HIV and its activity is influenced by IDRs. 
+* [DP01087](https://disprot.org/DP01087) - Protein Tat (Organism: [Human immunodeficiency virus type 1](https://disprot.org/browse?ncbi_taxon_id=11688)) encoded by gene _tat_. This protein acts by increasing the efficiency of the transcription process in HIV and its activity is influenced by IDRs. 
 * [DP01474](https://disprot.org/DP01474) - Nucleophosmin (Organism: [_Homo sapiens_](https://disprot.org/browse?ncbi_taxon_id=9606)) encoded by gene [_NPM1_](https://disprot.org/browse?gene=FUS). It’s involved in diverse cellular processes such as ribosome biogenesis, histone assembly, and regulation of tumor suppressors p53/TP53. NPM1 protein contains IDR (aa 120-243) with potential RNA binding activity
 
 Thanks to the effort of expert DisProt biocurators, **Maria Victoria Nugnes, Federica Quaglia**, and the _DisProt Consortium_ in particular **Edoardo Salladini, Julian Bergier, Veronika Ács, Emanuela Leonardi, Alma Carolina Sanchez Rocha.** The new dataset features **195** proteins and more than **1800** pieces of evidence obtained from over **156** publications.
