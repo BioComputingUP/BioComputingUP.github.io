@@ -15,15 +15,15 @@ Many proteins regulate the expression of genes by binding to specific regions en
 
 RBPs are a diverse class of proteins that interact with RNA to form ribonucleoprotein complexes, and regulate numerous aspects of gene expression (e.g. pre-mRNA splicing, translation etc) in several organisms. Many experimental data showed that several proteins are intrinsically disordered or contain disordered regions, which play a central role in regulatory processes.
 
-Our dataset includes more than 190 disordered RBPs in _Homo sapiens_, _viruses_, _bacteria _and other organisms. It is enriched with various pieces of evidence to describe disorder function (IDPO), and molecular and biological function (GO). Our dataset includes various examples of fully disordered RBPs as well as those with functionally important disordered regions.
+Our dataset includes more than 190 disordered RBPs in _Homo sapiens_, _viruses_, _bacteria_ and other organisms. It is enriched with various pieces of evidence to describe disorder function (IDPO), and molecular and biological function (GO). Our dataset includes various examples of fully disordered RBPs as well as those with functionally important disordered regions.
 
 Examples from “RNA-binding proteins” dataset:
 
 
 
 * [DP01087](https://disprot.org/DP01087) - Protein Tat (Organism:[ Human immunodeficiency virus type 1](https://disprot.org/browse?ncbi_taxon_id=11688)) encoded by gene _tat_. This protein acts by increasing the efficiency of the transcription process in HIV and its activity is influenced by IDRs. 
-* [DP01474](https://disprot.org/DP01474) - Nucleophosmin (Organism: _[Homo sapiens](https://disprot.org/browse?ncbi_taxon_id=9606)_) encoded by gene[ ](https://disprot.org/browse?gene=FUS)_NPM1_. It’s involved in diverse cellular processes such as ribosome biogenesis, histone assembly, and regulation of tumor suppressors p53/TP53. NPM1 protein contains IDR (aa 120-243) with potential RNA binding activity
+* [DP01474](https://disprot.org/DP01474) - Nucleophosmin (Organism: [_Homo sapiens_](https://disprot.org/browse?ncbi_taxon_id=9606)) encoded by gene [_NPM1_](https://disprot.org/browse?gene=FUS). It’s involved in diverse cellular processes such as ribosome biogenesis, histone assembly, and regulation of tumor suppressors p53/TP53. NPM1 protein contains IDR (aa 120-243) with potential RNA binding activity
 
-Thanks to the effort of expert DisProt biocurators, **Maria Victoria Nugnes, Federica Quaglia**, and the _DisProt Consortium_ in particular **Edoardo Salladini, Julian Bergier, Veronika Ács, Emanuela Leonardi, Alma Carolina Sanchez Rocha.** The new dataset features **195 **proteins and more than **1800 **pieces of evidence obtained from over **156 **publications.
+Thanks to the effort of expert DisProt biocurators, **Maria Victoria Nugnes, Federica Quaglia**, and the _DisProt Consortium_ in particular **Edoardo Salladini, Julian Bergier, Veronika Ács, Emanuela Leonardi, Alma Carolina Sanchez Rocha.** The new dataset features **195** proteins and more than **1800** pieces of evidence obtained from over **156** publications.
 
-_Notes. RNA-binding proteins thematic dataset icon was Created with [Biorender.com](http://Biorender.com)
+Notes: RNA-binding proteins thematic dataset icon was Created with [Biorender.com](http://Biorender.com)
