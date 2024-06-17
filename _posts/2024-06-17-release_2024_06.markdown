@@ -8,16 +8,14 @@ topic: "disprot"
 ---
 
 
-## Section 1
+
+# **New thematic dataset of RNA-binding proteins**
 
 Many proteins regulate the expression of genes by binding to specific regions encoded in the genome. Here we introduce a new thematic dataset: RNA-binding proteins (RBPs). 
 
 RBPs are a diverse class of proteins that interact with RNA to form ribonucleoprotein complexes, and regulate numerous aspects of gene expression (e.g. pre-mRNA splicing, translation etc) in several organisms. Many experimental data showed that several proteins are intrinsically disordered or contain disordered regions, which play a central role in regulatory processes.
 
 Our dataset includes more than 190 disordered RBPs in _Homo sapiens_, _viruses_, _bacteria _and other organisms. It is enriched with various pieces of evidence to describe disorder function (IDPO), and molecular and biological function (GO). Our dataset includes various examples of fully disordered RBPs as well as those with functionally important disordered regions.
-
-
-## Section 2
 
 Examples from “RNA-binding proteins” dataset:
 
@@ -28,5 +26,4 @@ Examples from “RNA-binding proteins” dataset:
 
 Thanks to the effort of expert DisProt biocurators, **Maria Victoria Nugnes, Federica Quaglia**, and the _DisProt Consortium_ in particular **Edoardo Salladini, Julian Bergier, Veronika Ács, Emanuela Leonardi, Alma Carolina Sanchez Rocha.** The new dataset features **195 **proteins and more than **1800 **pieces of evidence obtained from over **156 **publications.
 
-
-Notes. RNA-binding proteins thematic dataset icon was Created with [Biorender.com](Biorender.com)
+_Notes. RNA-binding proteins thematic dataset icon was Created with [Biorender.com](http://Biorender.com)
