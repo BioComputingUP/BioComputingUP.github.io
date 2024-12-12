@@ -20,4 +20,4 @@ Our dataset currently focuses on **intrinsically disordered proteins (IDPs)** th
 *   [**DP01248**](https://disprot.org/DP01248) **\- Vesicle-associated membrane protein-associated protein B/C**, an endoplasmic reticulum (ER)-anchored protein primarily involved in Amyotrophic Lateral Sclerosis (OMIM#608627) and Spinal Muscular Atrophy, late-onset Finkel type (OMIM#182980).
     
 
-Thanks to the dedicated efforts of expert DisProt biocurators—**Victoria M. Nugnes**, **Federica Quaglia**, and the DisProt Consortium —the dataset now features **45 proteins** supported by over **306 pieces of evidence** extracted from **115 scientific publications**.
+Thanks to the dedicated efforts of the expert DisProt biocurator—**Victoria M. Nugnes** and the DisProt Consortium —the dataset now features **45 proteins** supported by over **306 pieces of evidence** extracted from **115 scientific publications**.
