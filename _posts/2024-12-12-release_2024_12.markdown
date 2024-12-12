@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'DisProt 2024_12 - New thematic dataset of Age-related disorders proteins'
+date:   2024-12-12 16:40:00 +0200
+author: "Maria Cristina Aspromonte"
+headline: 'With this last DisProt thematic dataset, we explore the role of intrinsically disordered proteins (IDPs) in Age-related diseases.'
+topic: "disprot"
+---
+
+
+
+# **New thematic dataset for discovering the role of IDPs/IDRs on Age-diseases**
+
+Age-related diseases are common worldwide conditions affecting adults and are often caused by the dysregulation of proteins associated with multiple biological systems. Here, we introduce a new thematic dataset: **Age-related Disorders Proteins**.
+
+Our dataset currently focuses on **intrinsically disordered proteins (IDPs)** that are well-known for their involvement in neurodegenerative diseases (NDDs). Proteins were extracted from a curated database [NDDvarbase](http://bioinf.suda.edu.cn/NDDvarbase/LOVDv.3.0), which includes entries related to 37 different NDDs. This dataset highlights some of the most notable proteins, including:
+
+*   [**DP00070**](https://disprot.org/DP00070) **\- Alpha-synuclein**, encoded by the gene SNCA, with a disorder content of 99.3%. This protein is crucial for amyloid fibril formation and is responsible for Lewy body dementia.
+    
+*   [**DP01248**](https://disprot.org/DP01248) **\- Vesicle-associated membrane protein-associated protein B/C**, an endoplasmic reticulum (ER)-anchored protein primarily involved in Amyotrophic Lateral Sclerosis (OMIM#608627) and Spinal Muscular Atrophy, late-onset Finkel type (OMIM#182980).
+    
+
+Thanks to the dedicated efforts of expert DisProt biocurators—**Victoria M. Nugnes**, **Federica Quaglia**, and the DisProt Consortium —the dataset now features **45 proteins** supported by over **306 pieces of evidence** extracted from **115 scientific publications**.
