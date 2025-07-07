@@ -1,0 +1,50 @@
+---
+layout: post
+title:  'DisProt 2025_06 - New thematic dataset of Bacterial virulence-related proteins'
+date:   2025-07-07 09:00:00 +0200
+author: "Maria Cristina Aspromonte"
+headline: 'With this last DisProt thematic dataset, we explore the role of intrinsically disordered proteins (IDPs) in bacterial pathogenicity.'
+topic: "disprot"
+---
+
+
+# **DisProt 2025_06 - New thematic dataset of Bacterial virulence-related proteins**
+
+*Written in July 2025 by Maria Cristina Aspromonte*
+
+With the latest thematic dataset released by DisProt, we turn our attention to a fascinating and still emerging topic: the role of **intrinsically disordered proteins (IDPs)** and **intrinsically disordered regions (IDRs)** in **bacterial pathogenicity**.
+
+This curated collection highlights disordered bacterial proteins with functional roles in **virulence, host–pathogen interaction**, and **immune evasion**. While IDPs are well recognized in eukaryotic systems, their relevance in bacteria is still under active investigation.
+
+From this dataset, we have **76 bacterial proteins**, all annotated in DisProt, revealing compelling insights into the biological significance of structural disorder in bacterial infections.
+
+
+### **How much disorder is there?**
+
+**Total number of proteins:** 76 \
+**Minimum disorder content**: 1.15% \
+**Maximum disorder content**: 75.19%
+
+### **Examples of disordered virulence proteins in bacteria**
+
+
+**Cholera enterotoxin subunit A**
+
+
+
+* **DisProt ID**: [DP00250](https://www.disprot.org/DP00250)
+* **Organism**: *Vibrio cholerae* serotype O1
+* **Disorder content**: 75.19%
+* **Function**: This subunit plays a central role in the activity of the cholera toxin. It undergoes a **disorder-to-order transition** (IDPO:00050) upon binding, which facilitates its **activation and intracellular trafficking**, including **internalization** and **retrograde transport to the endoplasmic reticulum** — essential steps for the toxin’s cytotoxic effect.
+
+
+**Translocated intimin receptor (Tir)**
+
+* **DisProt ID**: [DP04161](https://disprot.org/DP04161)
+* **Organism**: *Escherichia coli*
+* **Disorder content**: 50.73%
+* **Function**: Tir is directly translocated into the host cell via a Type III secretion system. Its intrinsically disordered regions provide the **flexibility needed to interact with multiple host targets**, modulate host signaling pathways, and manipulate immune responses.
+
+Thanks to the effort of our expert DisProt biocurators, **[Maria Victoria Nugnes](https://apicuron.org/curators/0000-0001-8399-7907), (Federica Quaglia)[https://apicuron.org/curators/0000-0002-0341-4888]**, and the *DisProt Consortium*, the new dataset features more than **300** pieces of evidence obtained from **102** publications. 
+
+Notes: Bacterial virulence-related proteins dataset icon was obtained from [The Noun Project](https://thenounproject.com/)
