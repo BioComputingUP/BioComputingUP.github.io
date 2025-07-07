@@ -41,6 +41,6 @@ From this dataset, we have **76 bacterial proteins**, all annotated in DisProt, 
 * **Disorder content**: 50.73%
 * **Function**: Tir is directly translocated into the host cell via a Type III secretion system. Its intrinsically disordered regions provide the **flexibility needed to interact with multiple host targets**, modulate host signaling pathways, and manipulate immune responses.
 
-Thanks to the effort of our expert DisProt biocurators, **[Maria Victoria Nugnes](https://apicuron.org/curators/0000-0001-8399-7907), [Federica Quaglia](https://apicuron.org/curators/0000-0002-0341-4888)**, and the *DisProt Consortium*, the new dataset features more than **300** pieces of evidence obtained from **102** publications. 
+Thanks to the effort of our expert DisProt biocurators, **[Maria Victoria Nugnes](https://apicuron.org/curators/0000-0001-8399-7907), [Federica Quaglia](https://apicuron.org/curators/0000-0002-0341-4888)**, and volunteer curators from  the *DisProt Consortium*, specifically [Rita Pancsa](https://apicuron.org/curators/0000-0003-0849-9312), [Ximena Aixa Castro Naser](https://apicuron.org/curators/0000-0002-9211-1255) and [Trinidad de los Ángeles Cordero Gil](https://apicuron.org/curators/0000-0003-4991-7170). The new dataset features more than **300** pieces of evidence obtained from **102** publications. 
 
 Notes: Bacterial virulence-related proteins dataset icon was obtained from [The Noun Project](https://thenounproject.com/)
