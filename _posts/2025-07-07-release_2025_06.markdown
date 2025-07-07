@@ -8,10 +8,6 @@ topic: "disprot"
 ---
 
 
-# **DisProt 2025_06 - New thematic dataset of Bacterial virulence-related proteins**
-
-*Written in July 2025 by Maria Cristina Aspromonte*
-
 With the latest thematic dataset released by DisProt, we turn our attention to a fascinating and still emerging topic: the role of **intrinsically disordered proteins (IDPs)** and **intrinsically disordered regions (IDRs)** in **bacterial pathogenicity**.
 
 This curated collection highlights disordered bacterial proteins with functional roles in **virulence, host–pathogen interaction**, and **immune evasion**. While IDPs are well recognized in eukaryotic systems, their relevance in bacteria is still under active investigation.
