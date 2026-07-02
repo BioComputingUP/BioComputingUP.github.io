@@ -3,7 +3,7 @@ layout: post
 
 title: 'DisProt 2026_06 - New thematic dataset of Stress response proteins'
 
-date: 2026-06-06 09:00:00 +0200
+date: 2026-07-01 09:00:00 +0200
 
 author: "Maria Cristina Aspromonte"
 
@@ -24,16 +24,12 @@ Intrinsically disordered proteins (IDPs) and intrinsically disordered regions (I
 
 The dataset includes proteins involved in heat shock responses, stress signaling, transcriptional regulation, protein quality control, and environmental adaptation. Together, these proteins show that intrinsic disorder is a conserved strategy used by cells to respond to stress across evolution.
 
----
-
 # Overview of the dataset
 
-- 142 curated proteins  
-- 2629 different organisms  
-- 176 curated publications  
-- Proteins involved in heat shock response, oxidative stress, integrated stress response, and plant stress adaptation  
-
----
+- 127 curated proteins  
+- 28 different organisms  
+- 223 curated publications
+Proteins involved in heat shock response, oxidative stress, integrated stress response, and plant stress adaptation  
 
 # Examples of disordered stress-response proteins
 
@@ -46,8 +42,6 @@ Heat Shock Protein Beta-6 (HSPB6) is a small heat shock protein that helps cells
 
 The newly curated functional annotations show that IDRs mediate self-interaction, which is important for oligomer formation, and 14-3-3 protein binding, an interaction involved in stress-related signaling pathways.
 
----
-
 ## Protein name: NAC domain-containing protein 13
 
 **DisProt ID:** [DP03136](https://disprot.org/DP03136)  
@@ -56,8 +50,6 @@ The newly curated functional annotations show that IDRs mediate self-interaction
 NAC013 is a membrane-associated transcription factor involved in the response to mitochondrial and oxidative stress in plants. DisProt contains experimental evidence about disorder structural annotations, disorder-to-order transitions, and a pre-molten globule state, showing the high structural flexibility of its regulatory regions.
 
 These regions are also annotated with several functions, including protein binding, self-assembly, and transcription regulator activator activity.
-
----
 
 ## Protein name: Protein Phosphatase 1 Regulatory Subunit 15A
 
