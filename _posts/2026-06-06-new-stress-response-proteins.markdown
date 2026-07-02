@@ -11,7 +11,6 @@ headline: 'With this new DisProt thematic dataset, we showcase how intrinsic dis
 
 topic: "disprot"
 ---
-<br/>
 **Dataset curation & revision**: Maria Victoria Nugnes
 <br/>
 **Curators**: Ximena Aixa Castro, Rita Pancsa, Erzsébet Fichó, Jaime Santos Suárez, Bernadett Juhász, Gabriel Alejandro Rivas
@@ -29,6 +28,7 @@ The dataset includes proteins involved in heat shock responses, stress signaling
 - 127 curated proteins  
 - 28 different organisms  
 - 223 curated publications
+<br/>
 Proteins involved in heat shock response, oxidative stress, integrated stress response, and plant stress adaptation  
 
 # Examples of disordered stress-response proteins
