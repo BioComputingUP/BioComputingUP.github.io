@@ -27,8 +27,7 @@ The dataset includes proteins involved in heat shock responses, stress signaling
 
 - 127 curated proteins  
 - 28 different organisms  
-- 223 curated publications
-<br/>
+- 223 curated publications<br/>
 Proteins involved in heat shock response, oxidative stress, integrated stress response, and plant stress adaptation  
 
 # Examples of disordered stress-response proteins
